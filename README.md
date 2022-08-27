@@ -22,9 +22,9 @@ Department of `advertising` market research 🔎.
 - `THREEjs`
 - `GSAP`
 - deep dive into the `DOM`
-- Regular expressions (for `Url`)
+- Regular expressions
 - Working with the `developer tool`
-- `HTML` / `CSS`, `SCSS`, `SASS` (pseudo-classes, functions, Grid, Flex)
+- `HTML` / `CSS`, `SCSS`, `SASS`
 
 ## About me:
 
