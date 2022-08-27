@@ -23,7 +23,7 @@ Department of `advertising` market research 🔎.
 - `GSAP`
 - deep dive into the `DOM`
 - Regular expressions (for `Url`)
-- Working with the `developer tool` (Element / Network / Application / Console)
+- Working with the `developer tool`
 - `HTML` / `CSS`, `SCSS`, `SASS` (pseudo-classes, functions, Grid, Flex)
 
 ## About me:
