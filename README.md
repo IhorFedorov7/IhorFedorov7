@@ -37,3 +37,4 @@ Department of `advertising` market research 🔎.
 ## Follow me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-4e4e60?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ihor-fedorov-6a1293175)
+
