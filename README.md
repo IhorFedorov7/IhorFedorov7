@@ -18,10 +18,13 @@ Department of `advertising` market research 🔎.
 - `JS`
 - `nodejs`
 - `React`
+- `Vue`
+- `THREEjs`
+- `GSAP`
 - deep dive into the `DOM`
 - Regular expressions (for `Url`)
 - Working with the `developer tool` (Element / Network / Application / Console)
-- `HTML` / `CSS` (pseudo-classes, functions, Grid, Flex)
+- `HTML` / `CSS`, `SCSS`, `SASS` (pseudo-classes, functions, Grid, Flex)
 
 ## About me:
 
